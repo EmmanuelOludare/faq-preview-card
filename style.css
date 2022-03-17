@@ -64,14 +64,14 @@ content{
 				
 }
 .top{
-				background-image: url('images/illustration-woman-online-mobile.svg');
+				background-image: url('illustration-woman-online-mobile.svg');
 				height: 225px;
 				width: 220px;
 				background-repeat: no-repeat;
 				margin-left: 20px;
 }
 .bottom{
-				background-image: url('images/bg-pattern-mobile.svg');
+				background-image: url('bg-pattern-mobile.svg');
 				height: 220px;
 				width: 240px;
 				background-repeat: no-repeat;
@@ -109,36 +109,3 @@ content{
 				margin-top: -100px;
 }
 }
-
-
-
-### Primary
-
-#### Text
-
-- Very dark desaturated blue: hsl(238, 29%, 16%)
-- Soft red: hsl(14, 88%, 65%)
-
-#### Gradient
-
-Background gradient:
-
-- Soft violet: hsl(273, 75%, 66%)
-- Soft blue: hsl(240, 73%, 65%)
-
-### Neutral
-
-#### Text
-
-- Very dark grayish blue: hsl(237, 12%, 33%)
-- Dark grayish blue: hsl(240, 6%, 50%)
-
-#### Dividers
-
-- Light grayish blue: hsl(240, 5%, 91%)
-
-## Typography
-
-### Body Copy
-
-- Font size: 12px
